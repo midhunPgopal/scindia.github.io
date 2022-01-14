@@ -1,0 +1,544 @@
+.header{
+    position: absolute;
+    position: sticky;
+    width: 100%;
+    height: 55px;
+    background-color: white;
+    top: 0px;
+}
+body{
+    margin: 0px;
+}
+.home-button{
+    width: 66px;
+    height: 66px;
+    margin-left: 45px;
+    padding-top: 2px;
+    float: left;
+}
+.header1{
+    padding-left: 15px;
+    margin-left: 12px;
+    padding-top: 5px;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    width: 117px;
+    height: 54px;
+    float: left;
+}
+.header span{
+    color: green;
+}
+.header2{
+    padding-top: 3px;
+    margin-left: 62px;
+    padding-left: 12px;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 15px;
+    width: 117px;
+    height: 54px;
+    float: left;
+}
+.header3{
+    padding-top: 3px;
+    margin-left: 28px;
+    padding-left: 12px;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 15px;
+    width: 117px;
+    height: 54px;
+    float: left;
+}
+.header4{
+    padding-top: 3px;
+    margin-left: 7px;
+    padding-left: 12px;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 15px;
+    width: 82px;
+    height: 54px;
+    float: left;
+}
+.header5{
+    padding-top: 3px;
+    margin-left: 23px;
+    padding-left: 12px;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 15px;
+    width: 80px;
+    height: 54px;
+    float: left;
+}
+.header6{
+    padding-top: 18px;
+    margin-left: 0px;
+    padding-left: 12px;
+    font-size: 17px;
+    width: 29px;
+    height: 46px;
+    float: left;
+}
+.header7{
+    margin-left: 314px;
+    margin-top: 12px;
+    width: 120px;
+    height: 60px;
+    float: left;
+}  
+.button1{
+    background-color: green;
+    width: 130px;
+    height: 36px;
+    float: left;
+    color: white;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 12px;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+}
+.button2{
+    background-color: green;
+    width: 193px;
+    height: 44px;
+    margin-top: -95px;
+    margin-left: 43px;
+    border-radius: 20px;
+    color: white;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 14px;
+    text-align: center;
+    border-style: solid;
+    border-color: green;
+}
+.header8{
+    margin-left: 66px;
+    margin-top: 6px;
+    width: 120px;
+    height: 70px;
+    float: left;
+}  
+.main1{
+    background-image: ;
+    width: 100%;
+    height: 400px;
+    float: left;
+    margin-top: -16px;
+}
+.main2{
+    padding-top: 20px;
+    float: left;
+    width: 100%;
+    height: 200px;
+    font-size: 19px;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+}
+.main2 p{
+    margin-top: 0px;
+}
+.main2a{
+    float: left;
+    margin-left: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 210px;
+    height: 110px;
+    color: #0c77b9;
+    text-align: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.212);
+}
+.main2b{
+    float: left;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 210px;
+    height: 110px;
+    color: #0c77b9;
+    text-align: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.212);
+}
+.main2c{
+    float: left;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 210px;
+    height: 110px;
+    color: #0c77b9;
+    text-align: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.212);
+}
+.main2d{
+    float: left;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 210px;
+    height: 110px;
+    color: #0c77b9;
+    text-align: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.212);
+}
+.main2e{
+    float: left;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 210px;
+    height: 110px;
+    color: #0c77b9;
+    text-align: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.212);
+}
+.main2f{
+    float: left;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 210px;
+    height: 110px;
+    color: #0c77b9;
+    text-align: center;
+}
+.main3{
+    margin-top: 570px;
+    width: 100%;
+    height: 1320px;
+    background-color: #f6f6f6;
+}
+.main3 h2{
+    margin-top: 10px;
+    padding-left: 90px;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    line-height: 36px;
+    color: rgb(0, 0, 0);
+}
+.main3 h3{
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 15px;
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.main3 p{
+    text-align: left;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 12px;
+    margin-top: -12px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.main3a{
+    padding-right: 10px;
+    background-color: white;
+    float: left;
+    width: 250px;
+    height: 360px;
+    margin-left: 90px;
+    text-align: left;
+}
+.main3b{
+    background-color: white;
+    float: left;
+    width: 250px;
+    height: 360px;
+    margin-left: 20px;
+    text-align: left;
+}
+.main3c{
+    background-color: white;
+    float: left;
+    width: 250px;
+    height: 360px;
+    margin-left: 20px;
+    text-align: left;
+}
+.main3d{
+    background-color: white;
+    float: left;
+    width: 250px;
+    height: 360px;
+    margin-left: 20px;
+    text-align: left;
+}
+.main3e{
+    background-color: white;
+    float: left;
+    width: 250px;
+    height: 360px;
+    margin-left: 20px;
+    text-align: left;
+}
+.header-space{
+    margin-top: 10px;
+    padding-top: 20px;
+    width: 100%;
+    height: 50px;
+    float: left;
+}
+.main3f{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 90px;
+    margin-top: 20px;
+    text-align: left;
+}
+.main3-1{
+    background-color: white;
+    float: left;
+    margin-top: 20px;
+    padding-top: 20px;
+    width: 235px;
+    height: 180px;
+    text-align: center;
+}
+.main3 h4{
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 21px;
+    text-align: left;
+    padding-left: 30px;
+}
+.main3g{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 20px;
+    text-align: left;
+}
+.main3h{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 20px;
+    text-align: left;
+}
+.main3i{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 90px;
+    margin-top: 20px;
+    text-align: left;
+}
+.main3j{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 20px;
+    text-align: left;
+}
+.main3k{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 20px;
+    text-align: left;
+}
+.main3l{
+    float: left;
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 90px;
+    margin-top: 20px;
+    text-align: left;
+}
+.main3m{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 20px;
+    text-align: left;
+}
+.main3n{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+    margin-top: 20px;
+    text-align: left;
+}
+.main4{
+    width: 100%;
+    height: 400px;
+}
+.button3{
+    background-color: transparent;
+    width: 195px;
+    height: 57px;
+    margin-top: -67px;
+    margin-left: 44px;
+    color: white;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 14px;
+    text-align: center;
+    border: 2px solid white;
+}
+.button4{
+    background-color: transparent;
+    width: 221px;
+    height: 57px;
+    margin-top: -60px;
+    margin-left: 396px;
+    color: white;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 14px;
+    text-align: center;
+    border: 2px solid white;
+}
+.main5{
+    margin-top: -20px;
+    width: 100%;
+    height: 220px;
+    background-color: white;
+}
+.main5 h1{
+    padding-top: 35px;
+    padding-left: 80px;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    letter-spacing: .5px;
+    line-height: 30px;
+    color: #0c77b9;
+}
+.main5a{
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 12px;
+    float: right;
+    margin-top: -50px;
+    padding-right: 100px;
+}
+.main5b{
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    padding-left: 80px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #000;
+    float: left;
+}
+.main5 span{
+    font-weight: bold;
+    color: rgb(22, 196, 22);
+}
+.main5c{
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    padding-left: 220px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #000;
+    float: left;
+}
+.main5d{
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    padding-left: 80px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #000;
+    float: left;
+}
+.main5e{
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    padding-left: 82px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #000;
+    float: left;
+}
+.footer{
+    width: 100%;
+    height: 370px;
+    background-color: #2b2929;
+}
+.footer1{
+    margin-left: 85px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: .45px;
+    color: #b7b7b7;
+    text-transform: uppercase;
+    line-height: 29px;
+    display: inline-block;
+}
+.footer2{
+    margin-left: 160px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: .45px;
+    color: #b7b7b7;
+    text-transform: uppercase;
+    line-height: 29px;
+    display: inline-block;
+}
+.footer3{
+    margin-left: 160px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: .45px;
+    color: #b7b7b7;
+    text-transform: uppercase;
+    line-height: 29px;
+    display: inline-block;
+}
+.footer4{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: "SC Sans Web","SC Sans",Arial,sans-serif;
+    font-size: 11px;
+    color: #b7b7b7;
+    padding-top: 320px;
+    padding-left: 100px;
+}
+.footer4 span{
+    font-weight: 600;
+    color: white;
+}
+.footer5{
+    margin-top: -50px;
+    margin-right: 250px;
+    width: 150px;
+    height: 35px;
+    font-size: 15px;
+    letter-spacing: 10px;
+    color: #b7b7b7;
+    float: right;
+}
+.footericon{
+    background-color: #434343;
+    padding: 10px;
+    margin-left: 10px;
+    float: left;
+    border-radius: 16px;
+    text-align: center;
+    height: 15px;
+    width: 15px;
+}
+.footericon a{
+    text-decoration: none;
+    color: white;
+}
